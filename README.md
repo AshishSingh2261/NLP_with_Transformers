@@ -6,7 +6,7 @@ This repository contains implementation of various NLP tasks using the vanilla T
 For this a simple Transformer was used as mentioned above. The main idea was to input a article and get a summary in return. Since the architechture in itself is simple and the model used as a smaller one compared to the original transformer model it doesn't provide good results, but it works as a proof of concept. 
 Below you can see the model performing well on this piece of text:
 ![img_not_found](results/summary1.png)
-<img src="/results/summary1.png"></img>
+<img src="./summary1.png"></img>
 
 However there are many cases where the modle fails. Below is an example of one:
 
